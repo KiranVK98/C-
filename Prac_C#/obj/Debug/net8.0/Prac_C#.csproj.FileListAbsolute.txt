@@ -12,3 +12,4 @@
 /Users/kirankulkarni/Desktop/C#/Prac_C#/obj/Debug/net8.0/Prac_C#.pdb
 /Users/kirankulkarni/Desktop/C#/Prac_C#/obj/Debug/net8.0/Prac_C#.genruntimeconfig.cache
 /Users/kirankulkarni/Desktop/C#/Prac_C#/obj/Debug/net8.0/ref/Prac_C#.dll
+/Users/kirankulkarni/Desktop/C#/Prac_C#/obj/Debug/net8.0/Prac_C#.sourcelink.json
