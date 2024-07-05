@@ -2,12 +2,14 @@
 using System;
 
 
-class Programs 
+class Program 
 {
     public static void Main(string[] args)
     {
-        Console.WriteLine("hmmm");
-        Test test = new Test();
-        test.SayHello();
+        // Test test = new Test();
+        // test.SayHello();
+
+        DataTypes bl = new DataTypes();
+        bl.Is_Boolean(true);
     }
 }
