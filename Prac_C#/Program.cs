@@ -6,7 +6,7 @@ class Programs
 {
     public static void Main(string[] args)
     {
-        Console.WriteLine("hmm");
+        Console.WriteLine("hmmm");
         Test test = new Test();
         test.SayHello();
     }
