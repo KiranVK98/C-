@@ -1,0 +1,14 @@
+/Users/kirankulkarni/Desktop/C#/Prac_C#/bin/Debug/net8.0/Prac_C#
+/Users/kirankulkarni/Desktop/C#/Prac_C#/bin/Debug/net8.0/Prac_C#.deps.json
+/Users/kirankulkarni/Desktop/C#/Prac_C#/bin/Debug/net8.0/Prac_C#.runtimeconfig.json
+/Users/kirankulkarni/Desktop/C#/Prac_C#/bin/Debug/net8.0/Prac_C#.dll
+/Users/kirankulkarni/Desktop/C#/Prac_C#/bin/Debug/net8.0/Prac_C#.pdb
+/Users/kirankulkarni/Desktop/C#/Prac_C#/obj/Debug/net8.0/Prac_C#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirankulkarni/Desktop/C#/Prac_C#/obj/Debug/net8.0/Prac_C#.AssemblyInfoInputs.cache
+/Users/kirankulkarni/Desktop/C#/Prac_C#/obj/Debug/net8.0/Prac_C#.AssemblyInfo.cs
+/Users/kirankulkarni/Desktop/C#/Prac_C#/obj/Debug/net8.0/Prac_C#.csproj.CoreCompileInputs.cache
+/Users/kirankulkarni/Desktop/C#/Prac_C#/obj/Debug/net8.0/Prac_C#.dll
+/Users/kirankulkarni/Desktop/C#/Prac_C#/obj/Debug/net8.0/refint/Prac_C#.dll
+/Users/kirankulkarni/Desktop/C#/Prac_C#/obj/Debug/net8.0/Prac_C#.pdb
+/Users/kirankulkarni/Desktop/C#/Prac_C#/obj/Debug/net8.0/Prac_C#.genruntimeconfig.cache
+/Users/kirankulkarni/Desktop/C#/Prac_C#/obj/Debug/net8.0/ref/Prac_C#.dll
