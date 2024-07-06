@@ -9,7 +9,19 @@ class Program
         // Test test = new Test();
         // test.SayHello();
 
-        DataTypes bl = new DataTypes();
-        bl.Is_Boolean(true);
+        // DataTypes bl = new DataTypes();
+        // bl.Is_Boolean(true);
+
+        // strings s = new strings();
+        // s.computation();
+
+        // operators op = new operators();
+        // op.computation(11);
+
+        // types t = new types();
+        // t.computation();
+
+        array test = new array();
+        test.test_array();
     }
 }
