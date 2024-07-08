@@ -21,7 +21,10 @@ class Program
         // types t = new types();
         // t.computation();
 
-        array test = new array();
-        test.test_array();
+        // array test = new array();
+        // test.test_array();
+
+        switch_class test = new switch_class();
+        test.test_switch();
     }
 }
