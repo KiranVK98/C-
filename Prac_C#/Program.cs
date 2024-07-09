@@ -6,6 +6,9 @@ class Program
 {
     public static void Main(string[] args)
     {
+        pWhile test = new pWhile();
+        test.prac_while();  // while loop
+
         // Test test = new Test();
         // test.SayHello();
 
@@ -24,7 +27,8 @@ class Program
         // array test = new array();
         // test.test_array();
 
-        switch_class test = new switch_class();
-        test.test_switch();
+        // switch_class test = new switch_class();
+        // test.test_switch();
+
     }
 }
