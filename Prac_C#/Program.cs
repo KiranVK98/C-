@@ -6,8 +6,21 @@ class Program
 {
     public static void Main(string[] args)
     {
-        pWhile test = new pWhile();
-        test.prac_while();  // while loop
+
+        // int j;
+        // int Sum;
+        // int Prod;
+        // method_params meth = new method_params(out j, out Sum, out Prod);
+        // Console.WriteLine($"j - {j}, Sum - {Sum}, Prod - {Prod}");
+
+        int[] new_arr = new int[3];
+        method_params.test_params(ref new_arr);
+        foreach (int item in new_arr)
+        {
+            Console.WriteLine(item);
+        }
+        // pWhile test = new pWhile();
+        // test.prac_while();  // while loop
 
         // Test test = new Test();
         // test.SayHello();
