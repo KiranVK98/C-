@@ -1,11 +1,16 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System;
-
+using PATA = project.TeamA;
+using PATB = project.TeamB;
 
 class Program 
 {
     public static void Main(string[] args)
     {
+        PATA.teamA.Print();
+        PATB.teamB.Print();
+
+
 
         // int j;
         // int Sum;
@@ -13,12 +18,12 @@ class Program
         // method_params meth = new method_params(out j, out Sum, out Prod);
         // Console.WriteLine($"j - {j}, Sum - {Sum}, Prod - {Prod}");
 
-        int[] new_arr = new int[3];
-        method_params.test_params(ref new_arr);
-        foreach (int item in new_arr)
-        {
-            Console.WriteLine(item);
-        }
+        // int[] new_arr = new int[3];
+        // method_params.test_params(ref new_arr);
+        // foreach (int item in new_arr)
+        // {
+        //     Console.WriteLine(item);
+        // }
         // pWhile test = new pWhile();
         // test.prac_while();  // while loop
 
