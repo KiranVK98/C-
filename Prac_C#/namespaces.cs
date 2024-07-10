@@ -6,10 +6,7 @@ namespace project
     {
         public class teamA
         {
-            public static void Print()
-            {
-                Console.WriteLine("A is working");
-            }
+           
         }
     }
 }

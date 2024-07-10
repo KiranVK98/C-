@@ -2,13 +2,24 @@
 using System;
 using PATA = project.TeamA;
 using PATB = project.TeamB;
-
+using patA = ProjectA.TeamA;
 class Program 
 {
     public static void Main(string[] args)
     {
-        PATA.teamA.Print();
-        PATB.teamB.Print();
+
+        //Inheritance
+        fullTime Femp = new fullTime("Kiran", "Kulkarni", 70000,"Hello base class");
+        Femp.print_fullName();
+        Femp.print_Salary();
+
+        partTime Pemp = new partTime("Kiran", "VK");
+        Pemp.print_fullName();
+
+
+
+        // patA.TeamA.Print();
+        // PATB.teamB.Print();
 
 
 
