@@ -1,5 +1,7 @@
 public class Student
 {   
+
+    public string _city{get;set;}
     private string _Name;
     public string Name
     {

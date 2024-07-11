@@ -11,8 +11,8 @@ class Program
         //get_set property
         Student student = new Student();
         student.Name = "Kiran";
-
         Console.WriteLine($"Name is {student.Name}");
+
 
         // //Inheritance
         // fullTime Femp = new fullTime("Kiran", "Kulkarni", 70000,"Hello base class");
