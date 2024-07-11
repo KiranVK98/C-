@@ -1,20 +1,26 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System;
-using PATA = project.TeamA;
-using PATB = project.TeamB;
-using patA = ProjectA.TeamA;
+// using PATA = project.TeamA;
+// using PATB = project.TeamB;
+// using patA = ProjectA.TeamA;
 class Program 
 {
     public static void Main(string[] args)
     {
 
-        //Inheritance
-        fullTime Femp = new fullTime("Kiran", "Kulkarni", 70000,"Hello base class");
-        Femp.print_fullName();
-        Femp.print_Salary();
+        //get_set property
+        Student student = new Student();
+        student.Name = "Kiran";
 
-        partTime Pemp = new partTime("Kiran", "VK");
-        Pemp.print_fullName();
+        Console.WriteLine($"Name is {student.Name}");
+
+        // //Inheritance
+        // fullTime Femp = new fullTime("Kiran", "Kulkarni", 70000,"Hello base class");
+        // Femp.print_fullName();
+        // Femp.print_Salary();
+
+        // partTime Pemp = new partTime("Kiran", "VK");
+        // Pemp.print_fullName();
 
 
 
