@@ -3,15 +3,21 @@ using System;
 // using PATA = project.TeamA;
 // using PATB = project.TeamB;
 // using patA = ProjectA.TeamA;
+public delegate int Add_Number(int n1, int n2);
 class Program 
 {
     public static void Main(string[] args)
     {
 
-        // Multiple Inheritance using interfaces
-        meth m1 = new meth();
-        m1.Compute(2,3);
-        m1.Compute_multiply(2,3);
+        //Delegates
+        Add_Number add = new Add_Number(TestDelegate.AddN);
+        add(2,3);
+
+
+        // // Multiple Inheritance using interfaces
+        // meth m1 = new meth();
+        // m1.Compute(2,3);
+        // m1.Compute_multiply(2,3);
 
 
         // //get_set property
