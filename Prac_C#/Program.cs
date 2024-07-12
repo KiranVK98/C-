@@ -8,10 +8,16 @@ class Program
     public static void Main(string[] args)
     {
 
-        //get_set property
-        Student student = new Student();
-        student.Name = "Kiran";
-        Console.WriteLine($"Name is {student.Name}");
+        // Multiple Inheritance using interfaces
+        meth m1 = new meth();
+        m1.Compute(2,3);
+        m1.Compute_multiply(2,3);
+
+
+        // //get_set property
+        // Student student = new Student();
+        // student.Name = "Kiran";
+        // Console.WriteLine($"Name is {student.Name}");
 
 
         // //Inheritance
