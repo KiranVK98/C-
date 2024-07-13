@@ -1,0 +1,15 @@
+/Users/kirankulkarni/Desktop/C#/practice_concepts/practice_gpt/bin/Debug/net8.0/practice_gpt
+/Users/kirankulkarni/Desktop/C#/practice_concepts/practice_gpt/bin/Debug/net8.0/practice_gpt.deps.json
+/Users/kirankulkarni/Desktop/C#/practice_concepts/practice_gpt/bin/Debug/net8.0/practice_gpt.runtimeconfig.json
+/Users/kirankulkarni/Desktop/C#/practice_concepts/practice_gpt/bin/Debug/net8.0/practice_gpt.dll
+/Users/kirankulkarni/Desktop/C#/practice_concepts/practice_gpt/bin/Debug/net8.0/practice_gpt.pdb
+/Users/kirankulkarni/Desktop/C#/practice_concepts/practice_gpt/obj/Debug/net8.0/practice_gpt.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirankulkarni/Desktop/C#/practice_concepts/practice_gpt/obj/Debug/net8.0/practice_gpt.AssemblyInfoInputs.cache
+/Users/kirankulkarni/Desktop/C#/practice_concepts/practice_gpt/obj/Debug/net8.0/practice_gpt.AssemblyInfo.cs
+/Users/kirankulkarni/Desktop/C#/practice_concepts/practice_gpt/obj/Debug/net8.0/practice_gpt.csproj.CoreCompileInputs.cache
+/Users/kirankulkarni/Desktop/C#/practice_concepts/practice_gpt/obj/Debug/net8.0/practice_gpt.sourcelink.json
+/Users/kirankulkarni/Desktop/C#/practice_concepts/practice_gpt/obj/Debug/net8.0/practice_gpt.dll
+/Users/kirankulkarni/Desktop/C#/practice_concepts/practice_gpt/obj/Debug/net8.0/refint/practice_gpt.dll
+/Users/kirankulkarni/Desktop/C#/practice_concepts/practice_gpt/obj/Debug/net8.0/practice_gpt.pdb
+/Users/kirankulkarni/Desktop/C#/practice_concepts/practice_gpt/obj/Debug/net8.0/practice_gpt.genruntimeconfig.cache
+/Users/kirankulkarni/Desktop/C#/practice_concepts/practice_gpt/obj/Debug/net8.0/ref/practice_gpt.dll
