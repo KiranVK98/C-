@@ -4,17 +4,24 @@ public class Program
     public static void Main(String[] args)
     {
 
-        //Polymorphism
-        List<Shape> shapes = new List<Shape>
-        {
-            new Circle(),
-            new Square()
-        };
+        //Abstraction
+        FullTimeEmployee FTE = new FullTimeEmployee();
+        PartTimeEmployee PTE = new PartTimeEmployee();
+        FTE.CalculateSalary();
+        PTE.CalculateSalary();
 
-        foreach(Shape shap in shapes)
-        {
-            shap.Draw();
-        }
+
+        //Polymorphism
+        // List<Shape> shapes = new List<Shape>
+        // {
+        //     new Circle(),
+        //     new Square()
+        // };
+
+        // foreach(Shape shap in shapes)
+        // {
+        //     shap.Draw();
+        // }
 
 
         // //Inheritance
