@@ -1,0 +1,15 @@
+/Users/kirankulkarni/Desktop/C#/practice_concepts/VehicleProject/bin/Debug/net8.0/VehicleProject
+/Users/kirankulkarni/Desktop/C#/practice_concepts/VehicleProject/bin/Debug/net8.0/VehicleProject.deps.json
+/Users/kirankulkarni/Desktop/C#/practice_concepts/VehicleProject/bin/Debug/net8.0/VehicleProject.runtimeconfig.json
+/Users/kirankulkarni/Desktop/C#/practice_concepts/VehicleProject/bin/Debug/net8.0/VehicleProject.dll
+/Users/kirankulkarni/Desktop/C#/practice_concepts/VehicleProject/bin/Debug/net8.0/VehicleProject.pdb
+/Users/kirankulkarni/Desktop/C#/practice_concepts/VehicleProject/obj/Debug/net8.0/VehicleProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirankulkarni/Desktop/C#/practice_concepts/VehicleProject/obj/Debug/net8.0/VehicleProject.AssemblyInfoInputs.cache
+/Users/kirankulkarni/Desktop/C#/practice_concepts/VehicleProject/obj/Debug/net8.0/VehicleProject.AssemblyInfo.cs
+/Users/kirankulkarni/Desktop/C#/practice_concepts/VehicleProject/obj/Debug/net8.0/VehicleProject.csproj.CoreCompileInputs.cache
+/Users/kirankulkarni/Desktop/C#/practice_concepts/VehicleProject/obj/Debug/net8.0/VehicleProject.sourcelink.json
+/Users/kirankulkarni/Desktop/C#/practice_concepts/VehicleProject/obj/Debug/net8.0/VehicleProject.dll
+/Users/kirankulkarni/Desktop/C#/practice_concepts/VehicleProject/obj/Debug/net8.0/refint/VehicleProject.dll
+/Users/kirankulkarni/Desktop/C#/practice_concepts/VehicleProject/obj/Debug/net8.0/VehicleProject.pdb
+/Users/kirankulkarni/Desktop/C#/practice_concepts/VehicleProject/obj/Debug/net8.0/VehicleProject.genruntimeconfig.cache
+/Users/kirankulkarni/Desktop/C#/practice_concepts/VehicleProject/obj/Debug/net8.0/ref/VehicleProject.dll
