@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("practice_gpt")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+963a6dfe83132eb090c43e4c9eb2c3679d01c82d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a2155fa49d470b6682fba788c1d9b93ac0ec324b")]
 [assembly: System.Reflection.AssemblyProductAttribute("practice_gpt")]
 [assembly: System.Reflection.AssemblyTitleAttribute("practice_gpt")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

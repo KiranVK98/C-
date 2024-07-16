@@ -10,8 +10,21 @@ class Program
     {
 
         //Delegates
-        Add_Number add = new Add_Number(TestDelegate.AddN);
-        add(2,3);
+          List<TestDelegate> inp = new List<TestDelegate>(){
+        new TestDelegate(){N1 = 2, N2 = 3},
+        new TestDelegate(){N1 = 4, N2 = 3},
+        new TestDelegate(){N1 = 3, N2 = 3}
+
+    };
+
+    Integer_Computation test_Add = new Integer_Computation(TestDelegate.AddN);
+    TestDelegate.Compute(inp, test_Add);
+
+    Integer_Computation test_Mul = new Integer_Computation(TestDelegate.MulN);
+    TestDelegate.Compute(inp, test_Mul);
+
+
+
 
 
         // // Multiple Inheritance using interfaces
