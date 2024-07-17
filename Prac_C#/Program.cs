@@ -8,20 +8,25 @@ class Program
 {
     public static void Main(string[] args)
     {
+        //Exceptions
+        AddTwoNumbers add = new AddTwoNumbers();
+        add.Add(2,"wes");
 
-        //Delegates
-          List<TestDelegate> inp = new List<TestDelegate>(){
-        new TestDelegate(){N1 = 2, N2 = 3},
-        new TestDelegate(){N1 = 4, N2 = 3},
-        new TestDelegate(){N1 = 3, N2 = 3}
 
-    };
 
-    Integer_Computation test_Add = new Integer_Computation(TestDelegate.AddN);
-    TestDelegate.Compute(inp, test_Add);
+    //     //Delegates
+    //       List<TestDelegate> inp = new List<TestDelegate>(){
+    //     new TestDelegate(){N1 = 2, N2 = 3},
+    //     new TestDelegate(){N1 = 4, N2 = 3},
+    //     new TestDelegate(){N1 = 3, N2 = 3}
 
-    Integer_Computation test_Mul = new Integer_Computation(TestDelegate.MulN);
-    TestDelegate.Compute(inp, test_Mul);
+    // };
+
+    // Integer_Computation test_Add = new Integer_Computation(TestDelegate.AddN);
+    // TestDelegate.Compute(inp, test_Add);
+
+    // Integer_Computation test_Mul = new Integer_Computation(TestDelegate.MulN);
+    // TestDelegate.Compute(inp, test_Mul);
 
 
 
