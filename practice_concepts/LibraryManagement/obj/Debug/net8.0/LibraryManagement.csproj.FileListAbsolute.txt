@@ -1,0 +1,15 @@
+/Users/kirankulkarni/Desktop/C#/practice_concepts/LibraryManagement/bin/Debug/net8.0/LibraryManagement
+/Users/kirankulkarni/Desktop/C#/practice_concepts/LibraryManagement/bin/Debug/net8.0/LibraryManagement.deps.json
+/Users/kirankulkarni/Desktop/C#/practice_concepts/LibraryManagement/bin/Debug/net8.0/LibraryManagement.runtimeconfig.json
+/Users/kirankulkarni/Desktop/C#/practice_concepts/LibraryManagement/bin/Debug/net8.0/LibraryManagement.dll
+/Users/kirankulkarni/Desktop/C#/practice_concepts/LibraryManagement/bin/Debug/net8.0/LibraryManagement.pdb
+/Users/kirankulkarni/Desktop/C#/practice_concepts/LibraryManagement/obj/Debug/net8.0/LibraryManagement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirankulkarni/Desktop/C#/practice_concepts/LibraryManagement/obj/Debug/net8.0/LibraryManagement.AssemblyInfoInputs.cache
+/Users/kirankulkarni/Desktop/C#/practice_concepts/LibraryManagement/obj/Debug/net8.0/LibraryManagement.AssemblyInfo.cs
+/Users/kirankulkarni/Desktop/C#/practice_concepts/LibraryManagement/obj/Debug/net8.0/LibraryManagement.csproj.CoreCompileInputs.cache
+/Users/kirankulkarni/Desktop/C#/practice_concepts/LibraryManagement/obj/Debug/net8.0/LibraryManagement.sourcelink.json
+/Users/kirankulkarni/Desktop/C#/practice_concepts/LibraryManagement/obj/Debug/net8.0/LibraryManagement.dll
+/Users/kirankulkarni/Desktop/C#/practice_concepts/LibraryManagement/obj/Debug/net8.0/refint/LibraryManagement.dll
+/Users/kirankulkarni/Desktop/C#/practice_concepts/LibraryManagement/obj/Debug/net8.0/LibraryManagement.pdb
+/Users/kirankulkarni/Desktop/C#/practice_concepts/LibraryManagement/obj/Debug/net8.0/LibraryManagement.genruntimeconfig.cache
+/Users/kirankulkarni/Desktop/C#/practice_concepts/LibraryManagement/obj/Debug/net8.0/ref/LibraryManagement.dll

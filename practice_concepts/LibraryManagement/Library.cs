@@ -5,12 +5,13 @@ public class Library
     public void AddBook(Book book)
     {
         books.Add(book);
+        // Console.WriteLine($"Book {book.Title} added");
     }
 
 
-    public void RemoveBook(string isbn)
+    public void RemoveBook(int isbn)
     {
-        foreach(Book book in books):
+        foreach(var book in books)
         {
             if(book.ISBN == isbn)
             {
@@ -18,30 +19,35 @@ public class Library
                 break;
             }
         }
+        
     }
 
 
 
     public Book FindBookByTitle(string title)
     {
-        foreach(Book book in books):
+        foreach(var book in books)
         {
             if(book.Title == title)
             {
                 return book;
             }
         }
+
+        return null;
     }
 
     public Book FindBookByAuthor(string author)
     {
-        foreach(Book book in books):
+        foreach(Book book in books)
         {
             if(book.Author == author)
             {
                 return book;
             }
         }
+
+        return null;
     }
 
 
