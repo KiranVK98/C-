@@ -2,16 +2,20 @@
 {
     public static void Main(String[] args)
     {
-        User user = new User(1, "Kiran");
+        LibrarySystem library = new LibrarySystem();
 
-        List<User> users = new List<User>();
+        library.RegisterUser(
+            new User(17,"Kiran")
+        );
 
-        users.Add(user);
+        library.AddBook(
+            new Book("Coding","Kiran",1,1),
+            17
+        );
 
+        library.BorrowBook(17,1);
 
-        foreach(User test in users)
-        {
-            test.AddB(new Book("Ikigai","Kiran",123,1));
-        }
+        library.ReturnBook(17, 1);
+
     }
 }
