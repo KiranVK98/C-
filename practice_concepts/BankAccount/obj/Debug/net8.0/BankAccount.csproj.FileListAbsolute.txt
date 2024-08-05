@@ -1,0 +1,15 @@
+/Users/kirankulkarni/Desktop/C#/practice_concepts/BankAccount/bin/Debug/net8.0/BankAccount
+/Users/kirankulkarni/Desktop/C#/practice_concepts/BankAccount/bin/Debug/net8.0/BankAccount.deps.json
+/Users/kirankulkarni/Desktop/C#/practice_concepts/BankAccount/bin/Debug/net8.0/BankAccount.runtimeconfig.json
+/Users/kirankulkarni/Desktop/C#/practice_concepts/BankAccount/bin/Debug/net8.0/BankAccount.dll
+/Users/kirankulkarni/Desktop/C#/practice_concepts/BankAccount/bin/Debug/net8.0/BankAccount.pdb
+/Users/kirankulkarni/Desktop/C#/practice_concepts/BankAccount/obj/Debug/net8.0/BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirankulkarni/Desktop/C#/practice_concepts/BankAccount/obj/Debug/net8.0/BankAccount.AssemblyInfoInputs.cache
+/Users/kirankulkarni/Desktop/C#/practice_concepts/BankAccount/obj/Debug/net8.0/BankAccount.AssemblyInfo.cs
+/Users/kirankulkarni/Desktop/C#/practice_concepts/BankAccount/obj/Debug/net8.0/BankAccount.csproj.CoreCompileInputs.cache
+/Users/kirankulkarni/Desktop/C#/practice_concepts/BankAccount/obj/Debug/net8.0/BankAccount.sourcelink.json
+/Users/kirankulkarni/Desktop/C#/practice_concepts/BankAccount/obj/Debug/net8.0/BankAccount.dll
+/Users/kirankulkarni/Desktop/C#/practice_concepts/BankAccount/obj/Debug/net8.0/refint/BankAccount.dll
+/Users/kirankulkarni/Desktop/C#/practice_concepts/BankAccount/obj/Debug/net8.0/BankAccount.pdb
+/Users/kirankulkarni/Desktop/C#/practice_concepts/BankAccount/obj/Debug/net8.0/BankAccount.genruntimeconfig.cache
+/Users/kirankulkarni/Desktop/C#/practice_concepts/BankAccount/obj/Debug/net8.0/ref/BankAccount.dll
