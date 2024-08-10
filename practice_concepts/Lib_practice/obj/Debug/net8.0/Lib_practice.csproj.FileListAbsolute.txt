@@ -1,0 +1,15 @@
+/Users/kirankulkarni/Desktop/C#/practice_concepts/Lib_practice/bin/Debug/net8.0/Lib_practice
+/Users/kirankulkarni/Desktop/C#/practice_concepts/Lib_practice/bin/Debug/net8.0/Lib_practice.deps.json
+/Users/kirankulkarni/Desktop/C#/practice_concepts/Lib_practice/bin/Debug/net8.0/Lib_practice.runtimeconfig.json
+/Users/kirankulkarni/Desktop/C#/practice_concepts/Lib_practice/bin/Debug/net8.0/Lib_practice.dll
+/Users/kirankulkarni/Desktop/C#/practice_concepts/Lib_practice/bin/Debug/net8.0/Lib_practice.pdb
+/Users/kirankulkarni/Desktop/C#/practice_concepts/Lib_practice/obj/Debug/net8.0/Lib_practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirankulkarni/Desktop/C#/practice_concepts/Lib_practice/obj/Debug/net8.0/Lib_practice.AssemblyInfoInputs.cache
+/Users/kirankulkarni/Desktop/C#/practice_concepts/Lib_practice/obj/Debug/net8.0/Lib_practice.AssemblyInfo.cs
+/Users/kirankulkarni/Desktop/C#/practice_concepts/Lib_practice/obj/Debug/net8.0/Lib_practice.csproj.CoreCompileInputs.cache
+/Users/kirankulkarni/Desktop/C#/practice_concepts/Lib_practice/obj/Debug/net8.0/Lib_practice.sourcelink.json
+/Users/kirankulkarni/Desktop/C#/practice_concepts/Lib_practice/obj/Debug/net8.0/Lib_practice.dll
+/Users/kirankulkarni/Desktop/C#/practice_concepts/Lib_practice/obj/Debug/net8.0/refint/Lib_practice.dll
+/Users/kirankulkarni/Desktop/C#/practice_concepts/Lib_practice/obj/Debug/net8.0/Lib_practice.pdb
+/Users/kirankulkarni/Desktop/C#/practice_concepts/Lib_practice/obj/Debug/net8.0/Lib_practice.genruntimeconfig.cache
+/Users/kirankulkarni/Desktop/C#/practice_concepts/Lib_practice/obj/Debug/net8.0/ref/Lib_practice.dll
