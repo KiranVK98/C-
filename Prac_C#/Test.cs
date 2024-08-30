@@ -3,18 +3,20 @@ public class Test
 {
     public void SayHello()
     {
-        // Console.WriteLine("Enter your first name");
-        // string FirstName = Console.ReadLine();
+        Console.WriteLine("Test hello");
+    }
+}
 
-        // Console.WriteLine("Enter your last name");
-        // string LastName = Console.ReadLine(); 
 
-        // Console.WriteLine("Hello {0} {1}" ,FirstName, LastName);
+public class Test1 : Test
+{
+    public void SayHello()
+    {
+        Console.WriteLine("Test1 hello");
+    }
 
-        string val = "100";
-
-        int i = int.Parse(val);
-
-        Console.WriteLine(i);
+    public void q()
+    {
+        Console.WriteLine("Q");
     }
 }

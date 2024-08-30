@@ -9,6 +9,12 @@ class Program
     public static void Main(string[] args)
     {
 
+        Test t = new Test1();
+
+        t.SayHello();
+
+
+
         //Indexers
         Library lib = new Library();
         Console.WriteLine(lib[1]);
