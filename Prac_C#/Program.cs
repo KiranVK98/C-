@@ -9,9 +9,18 @@ class Program
     public static void Main(string[] args)
     {
 
-        testClass tc = new testClass();
+        pracLambda pL = new pracLambda();
 
-        tc.testDict();
+        pL.findStudent("K");
+
+
+        // TestThread t = new TestThread();
+
+        // t.sumThread();
+
+        // testClass tc = new testClass();
+
+        // tc.testDict();
 
         // Test t = new Test1();
 
